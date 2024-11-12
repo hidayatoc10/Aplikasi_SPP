@@ -1,6 +1,3 @@
-TODO
-https://github.com/codegoen/spp/projects/1
-
 # Sistem Informasi Pembayaran SPP
 > *Mengelola pembayaran SPP dengan sistem informasi.*
 
@@ -45,12 +42,6 @@ PHP >= 7.4 (dan memenuhi [server requirement Laravel 8.x](https://laravel.com/do
 12. Isi formulir installasi.
 13. Selesai, Anda akan login sebagai Super Admin.
 
-![Install Sistem Pembayaran SPP](docs/images/setup.png)
-
-## Developer dan Kontributor
-
-Project ini dikembangkan oleh [Rizkhal Lamaau](https://github.com/rizkhal) dan para [kontributor](https://github.com/codegoen/spp-sekolahal/graphs/contributors).
-
 ## Ramuan
 
 Software ini dibangun dengan penuh cinta dan dengan bahan dan dukungan dari paket-paket berikut ini:
@@ -70,20 +61,8 @@ Software ini dibangun dengan penuh cinta dan dengan bahan dan dukungan dari pake
 * [apexcharts](https://apexcharts.com/), Grafik laporan pemasukan dan pengeluaran
 * [sweetalert2](https://sweetalert2.github.io/)
 
-## Lisensi
-
-Project ini merupakan software free dan open source di bawah [lisensi MIT](LICENSE).
 
 ## Cara Berkontribusi
 
 Jika ingin berkontribusi terhadap project ini, baik untuk membuat *Issue*, usulan Fitur tambahan, *Pull Request*, maupun donasi, silakan melihat [panduan kontribusi](CONTRIBUTING.md).
 
-## Screenshots
-
-#### Transaksi
-![Transaksi](docs/images/transaction.png)
-
-#### Report
-![Report](docs/images/report.png)
-
-README dibuat dengan refrensi dari [@nafiesl](https://github.com/nafiesl)
